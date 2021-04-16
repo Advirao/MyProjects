@@ -1,5 +1,5 @@
 cpiitg.corp.hpicloud.net- for the cpi itg connection
-mobaxterm
+mobaxterm bn
 
 
 PMG - Tlane
