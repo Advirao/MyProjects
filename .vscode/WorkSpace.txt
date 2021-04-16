@@ -1,0 +1,66 @@
+cpiitg.corp.hpicloud.net- for the cpi itg connection
+mobaxterm
+
+
+PMG - Tlane
+Mapping new locto in End Routine - by TVARVC entries
+Create the TVARVC varialbe from kate's email
+code in end routine to check the variable to populte in the Transformation layer
+
+
+Populate the New Material Hierarchy with ID's also in aggregartion layer for 
+Product in Rainier and Sinai
+
+
+
+
+
+1PS54A#696
+
+ZAIBP_PLAN_COCKPIT
+ZAIBP_PLANNING_COCKPIT - Module Pool Programming
+
+ZXMATL_WWBWAUOM
+
+9000032733 
+
+9000035484
+9000035487
+9000035486
+9000035489
+9000035493
+9000035491
+9000035490 - Product
+9000035488
+
+EBDK900182
+
+
+5 Variables
+PL 2 
+MatType 2
+
+ZPRR_PRDLN
+ZPDS_PRDLN
+ZPRR_MATTYPE
+ZPDS_MATTYPE
+ZPDS_AUOM_CONV
+
+AUOM 1
+Combine the ZAAAM202 and ZCDSPLANALTUOM
+Modify the Sinai Product Transformation to populate pallet and carton endroutine
+
+\\c2w31163.itcs.hpicorp.net
+
+cpiitg.corp.hpicloud.net
+
+
+PRODUCT_LINE
+
+
+     IF SOURCE_FIELDS-MEINH EQ 'CAR'.
+     RESULT = SOURCE_FIELDS-UMREZ.
+  ENDIF.
+
+
+cpiitg.corp.hpicloud.net
